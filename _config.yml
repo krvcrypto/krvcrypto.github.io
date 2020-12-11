@@ -3,7 +3,7 @@
 title: Karl Vance
 email: krvcrypto@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a coder, Bitcoin enthusiast, researcher, and general geek. This is a github page to share things I find interesting on the topic of Bitcoin..
+  Coder, Bitcoin enthusiast, researcher. This is a github page for sharing things I find interesting on the topic of Bitcoin..
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://krvcrypto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: krvcrypto
